@@ -1,6 +1,6 @@
 # Stub package
 
-This is an example of a PEP-561 compliant stub-only package. It ships stubs for https://github.com/ethanhs/sample-typed-package, another sample PEP 561 compliant package.
+This is an example of a PEP-561 compliant stub package. It ships stubs for the package in https://github.com/ethanhs/pep-561, another sample PEP 561 compliant package.
 
 # License
 
